@@ -1,7 +1,7 @@
 <?php
 
 /*	
-	Function to handle posting of data in fom of arrays to a specified url.
+	Function to handle posting of data in form of arrays to a specified url.
 
 	Written By: Arowosegbe Ifeoluwa
 	For: Swipe Challenge
