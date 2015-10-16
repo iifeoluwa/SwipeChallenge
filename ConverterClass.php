@@ -25,7 +25,7 @@ class Converter
 	{
 		//Make a json string out of the array passed to it.
 
-		$jsonResult = json_encode($arrayData, JSON_UNESCAPE D_UNICODE | JSON_NUMERIC_CHECK);
+		$jsonResult = json_encode($arrayData, JSON_UNESCAPED_UNICODE | JSON_NUMERIC_CHECK);
 		
 		return $jsonResult;
 	}
